@@ -1,10 +1,10 @@
 {
     "tag_name": "v1.0.1",
-    "name": "13.5.2",
+    "name": "13.5.0",
     "body": "Latest update available",
     "published_at": "2026-06-10",
     "download_url": "https:\/\/animeplex.gamer.gd",
     "maintenance": true,
     "force_update": true,
-    "announcement": "Testing "
+    "announcement": ""
 }
