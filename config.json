@@ -1,10 +1,10 @@
 {
     "tag_name": "v1.0.1",
-    "name": "13.5.0",
+    "name": "13.5.2",
     "body": "Latest update available",
     "published_at": "2026-06-10",
     "download_url": "",
-    "maintenance": false,
+    "maintenance": true,
     "force_update": true,
-    "announcement": "Hlo users"
+    "announcement": "Hemlo bhomsdu \ud83e\udee6"
 }
