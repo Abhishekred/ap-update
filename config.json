@@ -1,7 +1,10 @@
 {
-  "tag_name": "v1.0.1",
-  "name": "13.5.1",
-  "body": "Latest update available",
-  "published_at": "2026-06-10",
-  "download_url": "https://animeplex.gamer.gd/download/app.apk"
+    "tag_name": "v1.0.1",
+    "name": null,
+    "body": "Latest update available",
+    "published_at": "2026-06-10",
+    "download_url": null,
+    "maintenance": false,
+    "force_update": false,
+    "announcement": null
 }
