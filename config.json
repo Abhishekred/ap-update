@@ -1,10 +1,10 @@
 {
     "tag_name": "v1.0.1",
-    "name": null,
+    "name": "13.5.0",
     "body": "Latest update available",
     "published_at": "2026-06-10",
-    "download_url": null,
+    "download_url": "",
     "maintenance": false,
-    "force_update": false,
-    "announcement": null
+    "force_update": true,
+    "announcement": "Hlo users"
 }
