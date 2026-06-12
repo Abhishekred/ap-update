@@ -1,10 +1,10 @@
 {
     "tag_name": "v1.0.1",
-    "name": "13.5.1",
+    "name": "13.5.0",
     "body": "Latest update available",
     "published_at": "2026-06-12",
-    "download_url": "https:\/\/superprofile.bio\/signup?redirect=\/explore-all-apps",
-    "maintenance": true,
+    "download_url": "",
+    "maintenance": false,
     "force_update": false,
-    "announcement": "Testing v2"
+    "announcement": "Testing completed "
 }
